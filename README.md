@@ -96,15 +96,7 @@ $ git clone https://github.com/faranbutt/AudioCraft
 
 - Generate Music by clicking on `Generate Music BUtton`
 
-## Authors
 
-| Name            | Link                                   |
-| --------------- | -------------------------------------- |
-| Dhairya Shah | https://www.linkedin.com/in/dhairya-shah/ |
-| Faran Taimoor Butt | https://www.linkedin.com/in/faranbutt/ |
-| Homan M | https://www.linkedin.com/in/homan-mirgolbabaee/ |
-| Timothé Laborie  | https://github.com/timothelaborie|
-| Rijul | https://github.com/rijul|
 
 ## Hackathon Link
 
