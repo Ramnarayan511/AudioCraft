@@ -23,9 +23,7 @@ Introducing our innovative AI-powered app: effortlessly gauge users' moods throu
 - [Features](#features)
 - [Market Value](#market-value)
 - [How to use the app](#how-to-use-the-app)
-- [Collaborators](#collaborators)
 - [Hackathon Link](#hackathon-link)
-- [References](#references)
 - [License](#license)
 
 </details>
